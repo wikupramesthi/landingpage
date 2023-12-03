@@ -1,6 +1,10 @@
 # Landing page template
 
+![themeforest template](https://github.com/hakimov-dev/landing-template/assets/83240328/e09b9efb-732a-4d38-a409-d145eab7992b)
+
 ### Introducing a Cutting-Edge Landing Page Powered by Nuxt.js, Vue.js, TypeScript, Tailwind CSS, and AOS!
+
+## About
 
 Our exceptional landing page showcases the perfect blend of innovative technologies, delivering a stunning user experience. Created using the powerful combination of Nuxt.js, Vue.js, TypeScript, Tailwind CSS, and AOS (Animate On Scroll), this landing page is a game-changer.
 
@@ -85,8 +89,3 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
-
-## About
-
-![themeforest template](https://github.com/hakimov-dev/landing-template/assets/83240328/e09b9efb-732a-4d38-a409-d145eab7992b)
-
